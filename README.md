@@ -4,7 +4,7 @@
 
 This is an App for restaurant's reviews and location in a map. It' responsive and accessible (tab and aria-roles).
 
-![screenshot](other/restaurant reviews app.png)
+![screenshot](other/restaurant_reviews_app.png)
 
 ### How to run it
 
